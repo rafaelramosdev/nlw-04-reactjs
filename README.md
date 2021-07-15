@@ -1,34 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <img alt="move.it" title="move.it" src=".github/logo.svg" width="160px"/>
+</h1>
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW Together 04"/>
 
-First, run the development server:
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="move.it" src=".github/cover.png" width="100%">
+</p>
+
+<br>
+
+## 🧪 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## 💻 Projeto
+
+O move.it é um website que une a técnica de Pomodoro com a realização de exercícios físicos.
+
+O move.it foi desenvolvido pensando em oferecer para quem passa muito tempo em frente ao computador, a proposta de cronometrar e focar totalmente no que está executando até que chegue o momento de sua pausa. Todo o método vai intercalando entre períodos de 25 minutos e intervalos de descanso onde fará exercícios físicos.
+
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 22 a 27 de Fevereiro de 2021.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através do link abaixo:
+
+- [Layout Web](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
+
+É necessário ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/rafaelramosdev/nlw-04-reactjs
+$ cd nlw-04-reactjs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+#ou
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+$ npm install
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Iniciar o projeto
+$ yarn start
 
-## Learn More
+#ou
 
-To learn more about Next.js, take a look at the following resources:
+$ npm start
+```
+O website estará disponível no seu navegador pelo endereço [`http://localhost:3000`](http://localhost:3000).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 Licença
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Fique ligado nas próximas edições do [Next Level Week](https://nextlevelweek.com/), é um evento gratuito que você não pode deixar passar, recomendo muito!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito by [Rafael Ramos](https://rafaelramos.dev/) 🙋🏻‍♂️
