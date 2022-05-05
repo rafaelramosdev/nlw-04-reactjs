@@ -30,7 +30,7 @@ O move.it é um website que une a técnica de Pomodoro com a realização de exe
 
 O move.it foi desenvolvido pensando em oferecer para quem passa muito tempo em frente ao computador, a proposta de cronometrar e focar totalmente no que está executando até que chegue o momento de sua pausa. Todo o método vai intercalando entre períodos de 25 minutos e intervalos de descanso onde fará exercícios físicos.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 22 a 27 de Fevereiro de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week #04](https://nextlevelweek.com/)**, apresentada nos dias 22 a 27 de Fevereiro de 2021.
 
 ## 🔖 Layout
 
